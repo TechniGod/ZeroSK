@@ -1,2 +1,10 @@
 # ZeroSK
-Currently, this project is still in development. Only the scripts are temporarily stored here.
+
+## Tested Versions
+
+### Minecraft
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.21.*  | :white_check_mark: |
+| 1.20.*  | :white_check_mark: |
+| <1.20.* | :x:                |
