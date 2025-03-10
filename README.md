@@ -1,6 +1,6 @@
 # ZeroSK
 
-## Tested Minecraft Versions
+### Tested Minecraft Versions
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.21    | :white_check_mark: |
